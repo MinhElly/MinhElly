@@ -2,10 +2,6 @@
 
 ### A budding Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MinhElly&label=Profile views&color=0e75b6&style=flat" alt="MinhElly" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MinhElly" alt="MinhElly" /></a> </p>
-
 - 🔭 I'm currently working on **FPT University**
 
 - 🌱 I'm currently learning **Software Engineering**
